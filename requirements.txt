@@ -2,3 +2,4 @@ numpy==1.24.4
 deepface==0.0.92
 opencv-python==4.5.5.64
 face-library==1.1.3
+faiss-cpu
